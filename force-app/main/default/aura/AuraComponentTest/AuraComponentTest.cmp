@@ -1,0 +1,6 @@
+<aura:component implements="force:lightningQuickActionWithoutHeader,force:hasRecordId" access="global" controller "NewAccountController">
+
+</aura:component>	
+
+
+<!-- implements="force:lightningQuickActionWithoutHeader,force:hasRecordId -->
